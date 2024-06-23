@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  master: one
+  scheduled_at: 2024-06-23 17:53:46
+  service_type: MyString
+  direction: false
+
+two:
+  client: two
+  master: two
+  scheduled_at: 2024-06-23 17:53:46
+  service_type: MyString
+  direction: false
